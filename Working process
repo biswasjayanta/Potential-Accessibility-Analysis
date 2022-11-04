@@ -1,0 +1,5 @@
+All the data had been imported into geodatabase feature class
+Topology were checked if there is any topological error
+network dataset were build
+origin-destination matrix were run and the output were saved in txt format
+file were uploaded into google colab for further analysis
